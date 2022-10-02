@@ -33,6 +33,8 @@ while(names.length>2){
     console.log(`${name} sorry we will unable to cater you`)
 }
 
-for(let i =0; i<names.length;i++){
-    console.log(`${names[i]} I would like to invite you to dinner `,)
+while(names.length !=0){
+    let name = names.pop()
+    console.log(`${name} I would like to invite you to dinner `,)
 }
+
