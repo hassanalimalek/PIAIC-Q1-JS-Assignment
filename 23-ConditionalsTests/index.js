@@ -2,8 +2,8 @@ const car = "Honda"
 console.log("Is car == 'Honda'? I predict True.")
 console.log(car === 'Honda')
 const number5 = 5
-console.log("Is 10 > 5? I predict True.")
-console.log(10 > 5)
+console.log("Is 10 >= 5? I predict True.")
+console.log(10 >= 5)
 const pakistanCapital = 'Islamabad'
 console.log("Is pakistanCapital === Islamabad? I predict True.")
 console.log(pakistanCapital === 'Islamabad')
@@ -20,8 +20,8 @@ console.log("Is piaicForProfit  === true? I predict False.")
 console.log(piaicForProfit === true)
 
 
-console.log("Is 10 < 5? I predict False.")
-console.log(10 < 5)
+console.log("Is 15 <= 5? I predict False.")
+console.log(15 <= 5)
 
 console.log("Is pakistanCapital !== Islamabad? I predict False.")
 console.log(pakistanCapital !== 'Islamabad')

@@ -39,10 +39,10 @@ console.log(number > 10)
 let firstName = 'Hassan';
 let lastName = 'Ali'
 
-console.log("firstName === Hassan && lastName === Ali || 10 > 5  ? I predict True")
-console.log(firstName === 'Hassan' && lastName === 'Ali' || 10 > 5)
+console.log("firstName === Hassan && lastName === Ali || 8*2>=16 ||  10 >  5 || 2>4 ? I predict True")
+console.log(firstName === 'Hassan' && lastName === 'Ali' || 8*2>=16 || 10 > 5)
 
-console.log("firstName === Hassan && lastName !== Ali || 5>10 ? I predict False")
+console.log("firstName === Hassan && lastName !== Ali || 8*2<=15 || 5>10 || 2<4 ? I predict False")
 console.log(firstName === 'Hassan' && lastName !== 'Ali' || 5>10)
 
 //Test whether an item is in a array or not
