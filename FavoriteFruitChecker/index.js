@@ -7,4 +7,3 @@ allFruits.map((fruit)=>{
         console.log(`You really like ${fruit}`)
     }
 })
-
